@@ -1,4 +1,4 @@
-/**
+/**@author moises belotto
  * Persona
  */
 public class Persona {
@@ -32,5 +32,4 @@ public void imprimir(){
   persona.imprimir();
   persona.buscaMayor();
 }
-}
-    
+}  
